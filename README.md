@@ -6,4 +6,4 @@ Repositório dedicado aos materiais de apoio, exemplos práticos e resoluções 
 
 1. Faça o clone do repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/daviimelo/Monitoria-POO.git](https://github.com/daviimelo/Monitoria-POO.git)
+   git clone https://github.com/daviimelo/Monitoria-POO.git
