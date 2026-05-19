@@ -26,8 +26,8 @@ public class Mensageiro {
 	 *   SMTP_HOST = "smtp-mail.outlook.com"
 	 *   SMTP_PORT = 587
 	 **/
-    private static final String EMAIL_REMETENTE = "sxsyasuosxs@gmail.com";
-    private static final String SENHA = "rbkn xnvx qngd plwj";
+    private static final String EMAIL_REMETENTE = "seu_email@gmail.com ";
+    private static final String SENHA = "sua_senha_de_aplicativo_gmail";
     private static final String SMTP_HOST = "smtp.gmail.com";
     private static final int SMTP_PORT = 587;
     
