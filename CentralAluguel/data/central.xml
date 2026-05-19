@@ -1,0 +1,40 @@
+<Central>
+  <todasAsPessoas>
+    <Pessoa>
+      <nome>teste</nome>
+      <sexo>M</sexo>
+      <CPF>teste</CPF>
+      <email>sxsyasuosxs@gmail.com</email>
+    </Pessoa>
+    <Pessoa>
+      <nome>teste 2</nome>
+      <sexo>M</sexo>
+      <CPF>tete</CPF>
+      <email>te</email>
+    </Pessoa>
+    <Pessoa>
+      <nome>Davi</nome>
+      <sexo>M</sexo>
+      <CPF>12247547372</CPF>
+      <email>nascimento.davi@academico.ifpb.edu.br</email>
+    </Pessoa>
+  </todasAsPessoas>
+  <todasAsPropostas>
+    <model.PropostaDeAluguel>
+      <locador reference="../../../todasAsPessoas/Pessoa[3]"/>
+      <locatario reference="../../../todasAsPessoas/Pessoa"/>
+      <tipoEspaco>Casa</tipoEspaco>
+      <valor>2500.0</valor>
+      <dataEvento>12/03/2026</dataEvento>
+      <descricaoEvento>blabla</descricaoEvento>
+    </model.PropostaDeAluguel>
+    <model.PropostaDeAluguel>
+      <locador reference="../../../todasAsPessoas/Pessoa"/>
+      <locatario reference="../../../todasAsPessoas/Pessoa[3]"/>
+      <tipoEspaco>testeeee</tipoEspaco>
+      <valor>123456.0</valor>
+      <dataEvento>12/03/2020</dataEvento>
+      <descricaoEvento>sdfghjkllkjhgfdsdfghjkl hgfdfghjklçlkjhg hjkl</descricaoEvento>
+    </model.PropostaDeAluguel>
+  </todasAsPropostas>
+</Central>
